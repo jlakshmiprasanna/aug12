@@ -1,0 +1,23 @@
+#table{
+    background-color: beige;
+    width: auto;
+}
+.img{
+    background-color: rgb(102, 134, 123);
+}
+#pro{
+    background-color: rgb(188, 158, 83);
+}
+.a{
+    background-color: pink;
+}
+.b{
+    background-color: palegreen;
+}
+#color{
+    background-color: goldenrod;
+}
+img{
+    height:5%;
+    width: 25%;
+}
